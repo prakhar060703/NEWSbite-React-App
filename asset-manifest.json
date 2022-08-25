@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/NEWSbite-React-App/static/css/main.073c9b0a.css",
-    "main.js": "/NEWSbite-React-App/static/js/main.31ff70d4.js",
+    "main.js": "/NEWSbite-React-App/static/js/main.f4de5aff.js",
     "static/js/787.4c026eef.chunk.js": "/NEWSbite-React-App/static/js/787.4c026eef.chunk.js",
     "index.html": "/NEWSbite-React-App/index.html",
     "main.073c9b0a.css.map": "/NEWSbite-React-App/static/css/main.073c9b0a.css.map",
-    "main.31ff70d4.js.map": "/NEWSbite-React-App/static/js/main.31ff70d4.js.map",
+    "main.f4de5aff.js.map": "/NEWSbite-React-App/static/js/main.f4de5aff.js.map",
     "787.4c026eef.chunk.js.map": "/NEWSbite-React-App/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.31ff70d4.js"
+    "static/js/main.f4de5aff.js"
   ]
 }
